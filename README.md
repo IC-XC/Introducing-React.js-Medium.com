@@ -4,4 +4,5 @@
 * Clicker App
 * Digital Clock
 * User Feed
+* Image Gallery
 
