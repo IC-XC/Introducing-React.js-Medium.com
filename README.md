@@ -5,4 +5,4 @@
 * Digital Clock
 * User Feed
 * Image Gallery
-
+* Quote Generation
