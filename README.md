@@ -6,3 +6,5 @@
 * User Feed
 * Image Gallery
 * Quote Generation
+* Random Quote Generator
+* Navbar
